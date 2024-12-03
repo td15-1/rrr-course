@@ -1,2 +1,6 @@
 # This file describes this repo
 This is a file that is on GitHub
+
+
+# Concluzions
+# Git and GitHub are very useful things
